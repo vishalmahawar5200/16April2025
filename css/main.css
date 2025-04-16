@@ -1,0 +1,11 @@
+.v_tbdr{
+    border:1px dashed red; 
+}
+header{
+    height:66px;
+    background-color:purple;
+}
+footer{
+    height:40px;
+    background-color: #0099cc;
+}
